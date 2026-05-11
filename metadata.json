@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Code Editors: Syntax Highlighting",
+    "slug": "code-editors-syntax-highlighting",
+    "description": "A description of the basic functionality and purpose of syntax highlighting in code editors and IDEs.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "programming-editors-ides"
     ],
     "related": [
-        "",
-        ""
     ]
 }
